@@ -1,0 +1,11 @@
+# This file specifies files that are not uploaded to Google Cloud
+# using gcloud commands.
+
+node_modules
+npm-debug.log
+.git
+.gitignore
+.env
+.DS_Store
+.vscode
+coverage
